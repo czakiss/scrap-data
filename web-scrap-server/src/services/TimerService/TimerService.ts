@@ -3,8 +3,8 @@ import DataService from "../DataService/DataService";
 import ScraperService from "../ScraperService/ScraperService";
 import * as console from "console";
 
-const TIMER_DURATION = 60 * 30;
-const CLEAN_TIME = 60 * 60 * 24;
+const TIMER_DURATION = 10;
+const CLEAN_TIME = 500;
 
 const storageService = new StorageService();
 const dataService = new DataService();

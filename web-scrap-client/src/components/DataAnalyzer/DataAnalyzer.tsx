@@ -69,7 +69,7 @@ const DataAnalyzer = () => {
       getData().then((data) => {
         setDataArray(data);
       });
-      isFirstRender.current = false;
+      setInterval(() => getData().then((data) => setDataArray(data)), 1000);
     }
   }, []);
 
