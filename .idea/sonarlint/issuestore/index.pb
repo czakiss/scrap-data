@@ -9,8 +9,6 @@ M
 web-scrap.iml,0\f\0f2da1de6d1826247da37c3637bda43df0f7546e
 D
 web-scrap-server.iml,2\a\2a1eca951dc736f7e8f720d80c1b4b1505db4b5c
-D
-web-scrap-client.iml,6\e\6ebf1033e4be40038f33939e51df8488295c0ddb
 <
 package.json,7\0\7030d0b2f71b999ff89a343de08c414af32fc93a
 W
@@ -75,8 +73,6 @@ N
 web-scrap-client/src/index.tsx,3\3\331af51cef4fcf4d5c065ab3d5e72531ba5a6cd0
 W
 'web-scrap-client/src/reportWebVitals.ts,6\a\6a798aa75c4f5c5bdf2e88f201008ec8ceb0468b
-K
-web-scrap-client/.gitignore,6\9\69480e723019a35fea51836b2a72bbee8b4d54df
 Q
 !web-scrap-client/src/App.test.tsx,2\0\20413434169f9c67bbf372223c4295077780d498
 b

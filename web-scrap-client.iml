@@ -4,7 +4,6 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/web-scrap-client">
       <excludeFolder url="file://$MODULE_DIR$/web-scrap-client/node_modules" />
-      <excludeFolder url="file://$MODULE_DIR$/web-scrap-client/public" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
